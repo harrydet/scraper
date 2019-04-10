@@ -1,0 +1,110 @@
+DIVISION,DATE,FIXTURE,HOME TEAM,AWAY TEAM
+EPL,12/04/19,Leicester City - Newcastle Utd,Leicester City , Newcastle Utd
+EPL,13/04/19,Tottenham - Huddersfield,Tottenham , Huddersfield
+EPL,13/04/19,Brighton & Hove - Bournemouth,Brighton & Hove , Bournemouth
+EPL,13/04/19,Burnley - Cardiff City,Burnley , Cardiff City
+EPL,13/04/19,Fulham - Everton,Fulham , Everton
+EPL,13/04/19,Southampton - Wolverhampton,Southampton , Wolverhampton
+EPL,13/04/19,Manchester Utd - West Ham Utd,Manchester Utd , West Ham Utd
+EPL,14/04/19,Crystal Palace - Manchester City,Crystal Palace , Manchester City
+EPL,14/04/19,Liverpool - Chelsea,Liverpool , Chelsea
+EPL,15/04/19,Watford - Arsenal,Watford , Arsenal
+EPL,16/04/19,Brighton & Hove - Cardiff City,Brighton & Hove , Cardiff City
+EPL,20/04/19,Manchester City - Tottenham,Manchester City , Tottenham
+EPL,20/04/19,Bournemouth - Fulham,Bournemouth , Fulham
+EPL,20/04/19,Huddersfield - Watford,Huddersfield , Watford
+EPL,20/04/19,West Ham Utd - Leicester City,West Ham Utd , Leicester City
+EPL,20/04/19,Wolverhampton - Brighton & Hove,Wolverhampton , Brighton & Hove
+EPL,20/04/19,Newcastle Utd - Southampton,Newcastle Utd , Southampton
+EPL,21/04/19,Everton - Manchester Utd,Everton , Manchester Utd
+EPL,21/04/19,Arsenal - Crystal Palace,Arsenal , Crystal Palace
+EPL,21/04/19,Cardiff City - Liverpool,Cardiff City , Liverpool
+EPL,22/04/19,Chelsea - Burnley,Chelsea , Burnley
+EPL,23/04/19,Tottenham - Brighton & Hove,Tottenham , Brighton & Hove
+EPL,23/04/19,Watford - Southampton,Watford , Southampton
+EPL,24/04/19,Wolverhampton - Arsenal,Wolverhampton , Arsenal
+EPL,24/04/19,Manchester Utd - Manchester City,Manchester Utd , Manchester City
+EPL,26/04/19,Liverpool - Huddersfield,Liverpool , Huddersfield
+EPL,27/04/19,Tottenham - West Ham Utd,Tottenham , West Ham Utd
+EPL,27/04/19,Crystal Palace - Everton,Crystal Palace , Everton
+EPL,27/04/19,Fulham - Cardiff City,Fulham , Cardiff City
+EPL,27/04/19,Southampton - Bournemouth,Southampton , Bournemouth
+EPL,27/04/19,Watford - Wolverhampton,Watford , Wolverhampton
+EPL,27/04/19,Brighton & Hove - Newcastle Utd,Brighton & Hove , Newcastle Utd
+EPL,28/04/19,Burnley - Manchester City,Burnley , Manchester City
+EPL,28/04/19,Manchester Utd - Chelsea,Manchester Utd , Chelsea
+EPL,29/04/19,Leicester City - Arsenal,Leicester City , Arsenal
+EPL,03/05/19,Everton - Burnley,Everton , Burnley
+EPL,04/05/19,Arsenal - Brighton & Hove,Arsenal , Brighton & Hove
+EPL,04/05/19,Cardiff City - Crystal Palace,Cardiff City , Crystal Palace
+EPL,04/05/19,Chelsea - Watford,Chelsea , Watford
+EPL,04/05/19,Manchester City - Leicester City,Manchester City , Leicester City
+EPL,04/05/19,West Ham Utd - Southampton,West Ham Utd , Southampton
+EPL,04/05/19,Wolverhampton - Fulham,Wolverhampton , Fulham
+EPL,05/05/19,Huddersfield - Manchester Utd,Huddersfield , Manchester Utd
+EPL,05/05/19,Newcastle Utd - Liverpool,Newcastle Utd , Liverpool
+EPL,06/05/19,Bournemouth - Tottenham,Bournemouth , Tottenham
+EPL,12/05/19,Brighton & Hove - Manchester City,Brighton & Hove , Manchester City
+EPL,12/05/19,Burnley - Arsenal,Burnley , Arsenal
+EPL,12/05/19,Crystal Palace - Bournemouth,Crystal Palace , Bournemouth
+EPL,12/05/19,Fulham - Newcastle Utd,Fulham , Newcastle Utd
+EPL,12/05/19,Leicester City - Chelsea,Leicester City , Chelsea
+EPL,12/05/19,Liverpool - Wolverhampton,Liverpool , Wolverhampton
+EPL,12/05/19,Manchester Utd - Cardiff City,Manchester Utd , Cardiff City
+EPL,12/05/19,Southampton - Huddersfield,Southampton , Huddersfield
+EPL,12/05/19,Tottenham - Everton,Tottenham , Everton
+EPL,12/05/19,Watford - West Ham Utd,Watford , West Ham Utd
+EPL,12/04/19,FC Nürnberg - Schalke 04,FC Nürnberg , Schalke 04
+EPL,13/04/19,Hannover 96 - Moenchengladb.,Hannover 96 , Moenchengladb.
+EPL,13/04/19,RB Leipzig - Wolfsburg,RB Leipzig , Wolfsburg
+EPL,13/04/19,Stuttgart - Leverkusen,Stuttgart , Leverkusen
+EPL,13/04/19,Werder Bremen - Freiburg,Werder Bremen , Freiburg
+EPL,13/04/19,Dortmund - FSV Mainz,Dortmund , FSV Mainz
+EPL,14/04/19,Hoffenheim - Hertha Berlin,Hoffenheim , Hertha Berlin
+EPL,14/04/19,Düsseldorf - Bayern Munich,Düsseldorf , Bayern Munich
+EPL,14/04/19,Frankfurt - FC Augsburg,Frankfurt , FC Augsburg
+EPL,20/04/19,Bayern Munich - Werder Bremen,Bayern Munich , Werder Bremen
+EPL,20/04/19,FC Augsburg - Stuttgart,FC Augsburg , Stuttgart
+EPL,20/04/19,FSV Mainz - Düsseldorf,FSV Mainz , Düsseldorf
+EPL,20/04/19,Leverkusen - FC Nürnberg,Leverkusen , FC Nürnberg
+EPL,20/04/19,Moenchengladb. - RB Leipzig,Moenchengladb. , RB Leipzig
+EPL,20/04/19,Schalke 04 - Hoffenheim,Schalke 04 , Hoffenheim
+EPL,21/04/19,Freiburg - Dortmund,Freiburg , Dortmund
+EPL,21/04/19,Hertha Berlin - Hannover 96,Hertha Berlin , Hannover 96
+EPL,22/04/19,Wolfsburg - Frankfurt,Wolfsburg , Frankfurt
+EPL,26/04/19,FC Augsburg - Leverkusen,FC Augsburg , Leverkusen
+EPL,27/04/19,Dortmund - Schalke 04,Dortmund , Schalke 04
+EPL,27/04/19,Düsseldorf - Werder Bremen,Düsseldorf , Werder Bremen
+EPL,27/04/19,Frankfurt - Hertha Berlin,Frankfurt , Hertha Berlin
+EPL,27/04/19,Hannover 96 - FSV Mainz,Hannover 96 , FSV Mainz
+EPL,27/04/19,RB Leipzig - Freiburg,RB Leipzig , Freiburg
+EPL,27/04/19,Stuttgart - Moenchengladb.,Stuttgart , Moenchengladb.
+EPL,28/04/19,Hoffenheim - Wolfsburg,Hoffenheim , Wolfsburg
+EPL,28/04/19,FC Nürnberg - Bayern Munich,FC Nürnberg , Bayern Munich
+EPL,03/05/19,FSV Mainz - RB Leipzig,FSV Mainz , RB Leipzig
+EPL,04/05/19,Bayern Munich - Hannover 96,Bayern Munich , Hannover 96
+EPL,04/05/19,Hertha Berlin - Stuttgart,Hertha Berlin , Stuttgart
+EPL,04/05/19,Moenchengladb. - Hoffenheim,Moenchengladb. , Hoffenheim
+EPL,04/05/19,Wolfsburg - FC Nürnberg,Wolfsburg , FC Nürnberg
+EPL,04/05/19,Werder Bremen - Dortmund,Werder Bremen , Dortmund
+EPL,05/05/19,Schalke 04 - FC Augsburg,Schalke 04 , FC Augsburg
+EPL,05/05/19,Freiburg - Düsseldorf,Freiburg , Düsseldorf
+EPL,05/05/19,Leverkusen - Frankfurt,Leverkusen , Frankfurt
+EPL,11/05/19,Dortmund - Düsseldorf,Dortmund , Düsseldorf
+EPL,11/05/19,FC Augsburg - Hertha Berlin,FC Augsburg , Hertha Berlin
+EPL,11/05/19,FC Nürnberg - Moenchengladb.,FC Nürnberg , Moenchengladb.
+EPL,11/05/19,Frankfurt - FSV Mainz,Frankfurt , FSV Mainz
+EPL,11/05/19,Hannover 96 - Freiburg,Hannover 96 , Freiburg
+EPL,11/05/19,Hoffenheim - Werder Bremen,Hoffenheim , Werder Bremen
+EPL,11/05/19,Leverkusen - Schalke 04,Leverkusen , Schalke 04
+EPL,11/05/19,RB Leipzig - Bayern Munich,RB Leipzig , Bayern Munich
+EPL,11/05/19,Stuttgart - Wolfsburg,Stuttgart , Wolfsburg
+EPL,18/05/19,Bayern Munich - Frankfurt,Bayern Munich , Frankfurt
+EPL,18/05/19,Düsseldorf - Hannover 96,Düsseldorf , Hannover 96
+EPL,18/05/19,Freiburg - FC Nürnberg,Freiburg , FC Nürnberg
+EPL,18/05/19,FSV Mainz - Hoffenheim,FSV Mainz , Hoffenheim
+EPL,18/05/19,Hertha Berlin - Leverkusen,Hertha Berlin , Leverkusen
+EPL,18/05/19,Moenchengladb. - Dortmund,Moenchengladb. , Dortmund
+EPL,18/05/19,Schalke 04 - Stuttgart,Schalke 04 , Stuttgart
+EPL,18/05/19,Werder Bremen - RB Leipzig,Werder Bremen , RB Leipzig
+EPL,18/05/19,Wolfsburg - FC Augsburg,Wolfsburg , FC Augsburg
