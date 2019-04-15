@@ -1,0 +1,231 @@
+1555277940010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.plTkJqLb6bbj"
+1555277942900	Marionette	INFO	Listening on port 34621
+1555277942986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555277943047	Marionette	DEBUG	[2147483649] Frame script loaded
+1555277943116	Marionette	DEBUG	[2147483649] Frame script registered
+1555277943142	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555277944039	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555277946924	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england
+1555277952936	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1555277954054	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england
+1555277954859	Marionette	INFO	Stopped listening on port 34621
+1555277965491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GodDqOTY4BRa"
+1555277967569	Marionette	INFO	Listening on port 40745
+1555277967633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555277967708	Marionette	DEBUG	[2147483649] Frame script loaded
+1555277967710	Marionette	DEBUG	[2147483649] Frame script registered
+1555277967739	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555277968722	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555277970477	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england2
+1555277973247	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england2
+1555277973928	Marionette	INFO	Stopped listening on port 40745
+1555277976596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YJk4FxUybdhV"
+1555277978501	Marionette	INFO	Listening on port 46193
+1555277978621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555277978700	Marionette	DEBUG	[2147483649] Frame script loaded
+1555277978702	Marionette	DEBUG	[2147483649] Frame script registered
+1555277978756	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555277979628	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555277981382	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=germany
+1555277985680	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=germany
+1555277986420	Marionette	INFO	Stopped listening on port 46193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1555277987121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IPbTHdiDNhVz"
+1555277989040	Marionette	INFO	Listening on port 37233
+1555277989132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555277989223	Marionette	DEBUG	[2147483649] Frame script loaded
+1555277989225	Marionette	DEBUG	[2147483649] Frame script registered
+1555277989254	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555277990015	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555277992686	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/results.asp?league=england
+1555277996725	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/results.asp?league=england
+1555277996847	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1555277997077	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1555277997377	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1555277997416	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.soccerstats.com/results.asp?league=england
+1555277997633	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.soccerstats.com/results.asp?league=england
+1555277997640	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.soccerstats.com/results.asp?league=england
+1555277997825	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england_2013
+1555277997833	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1555277997834	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1555277997848	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1555277997848	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1555277997848	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1555277997849	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1555277997850	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1555277997851	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1555277997851	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1555277997852	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1555278000890	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england_2013
+1555278000927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.soccerstats.com/latest.asp?league=england_2013
+1555278001388	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.soccerstats.com/latest.asp?league=england_2013
+1555278001393	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.soccerstats.com/latest.asp?league=england_2013
+1555278001540	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/results.asp?league=england_2013
+1555278001579	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1555278001579	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1555278001580	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483693
+1555278001580	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483694
+1555278001580	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1555278001581	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1555278001581	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1555278001581	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483700
+1555278003744	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483725
+1555278005318	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/results.asp?league=england_2013
+1555278046542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8jhKn4T3ILHy"
+1555278048820	Marionette	INFO	Listening on port 35471
+1555278048873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278048953	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278048959	Marionette	DEBUG	[2147483649] Frame script registered
+1555278048990	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278049659	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278051395	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england
+1555278056700	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england
+1555278057490	Marionette	INFO	Stopped listening on port 35471
+1555278058190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aaLLL3Xxr96b"
+1555278060127	Marionette	INFO	Listening on port 35729
+1555278060205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278060284	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278060286	Marionette	DEBUG	[2147483649] Frame script registered
+1555278060330	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278061284	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278064769	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england2
+1555278070313	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england2
+1555278071146	Marionette	INFO	Stopped listening on port 35729
+[Parent 15736, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1555278071792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4Wp1Ek4yiYpC"
+1555278073871	Marionette	INFO	Listening on port 33823
+1555278073921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278073990	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278073996	Marionette	DEBUG	[2147483649] Frame script registered
+1555278074022	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278077242	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278079502	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=germany
+1555278088054	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=germany
+1555278088877	Marionette	INFO	Stopped listening on port 33823
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15990, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1555278557182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6DqI2ECkNNtF"
+1555278559551	Marionette	INFO	Listening on port 40727
+1555278559608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278559685	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278559691	Marionette	DEBUG	[2147483649] Frame script registered
+1555278559732	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278560497	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278562209	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england
+1555278566902	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483691
+1555278567037	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483693
+1555278567196	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england
+1555278567929	Marionette	INFO	Stopped listening on port 40727
+[Parent 16695, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1555278569384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SZ2aKPCAY6LF"
+1555278571455	Marionette	INFO	Listening on port 35045
+1555278571522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278571616	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278571618	Marionette	DEBUG	[2147483649] Frame script registered
+1555278571661	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278572937	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278577156	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=england2
+1555278583358	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=england2
+1555278584338	Marionette	INFO	Stopped listening on port 35045
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+1555278585174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KLJUqAMN6cO5"
+1555278587286	Marionette	INFO	Listening on port 39193
+1555278587395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555278587501	Marionette	DEBUG	[2147483649] Frame script loaded
+1555278587527	Marionette	DEBUG	[2147483649] Frame script registered
+1555278587587	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1555278588383	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1555278590395	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.soccerstats.com/latest.asp?league=germany
+[Parent 15204, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1555278594294	Marionette	INFO	Stopped listening on port 37233
+1555278597304	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.soccerstats.com/latest.asp?league=germany
+1555278598144	Marionette	INFO	Stopped listening on port 39193
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 17283, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726

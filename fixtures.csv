@@ -1,110 +1,142 @@
-DIVISION,DATE,FIXTURE,HOME TEAM,AWAY TEAM
-EPL,12/04/19,Leicester City - Newcastle Utd,Leicester City , Newcastle Utd
-EPL,13/04/19,Tottenham - Huddersfield,Tottenham , Huddersfield
-EPL,13/04/19,Brighton & Hove - Bournemouth,Brighton & Hove , Bournemouth
-EPL,13/04/19,Burnley - Cardiff City,Burnley , Cardiff City
-EPL,13/04/19,Fulham - Everton,Fulham , Everton
-EPL,13/04/19,Southampton - Wolverhampton,Southampton , Wolverhampton
-EPL,13/04/19,Manchester Utd - West Ham Utd,Manchester Utd , West Ham Utd
-EPL,14/04/19,Crystal Palace - Manchester City,Crystal Palace , Manchester City
-EPL,14/04/19,Liverpool - Chelsea,Liverpool , Chelsea
-EPL,15/04/19,Watford - Arsenal,Watford , Arsenal
-EPL,16/04/19,Brighton & Hove - Cardiff City,Brighton & Hove , Cardiff City
-EPL,20/04/19,Manchester City - Tottenham,Manchester City , Tottenham
-EPL,20/04/19,Bournemouth - Fulham,Bournemouth , Fulham
-EPL,20/04/19,Huddersfield - Watford,Huddersfield , Watford
-EPL,20/04/19,West Ham Utd - Leicester City,West Ham Utd , Leicester City
-EPL,20/04/19,Wolverhampton - Brighton & Hove,Wolverhampton , Brighton & Hove
-EPL,20/04/19,Newcastle Utd - Southampton,Newcastle Utd , Southampton
-EPL,21/04/19,Everton - Manchester Utd,Everton , Manchester Utd
-EPL,21/04/19,Arsenal - Crystal Palace,Arsenal , Crystal Palace
-EPL,21/04/19,Cardiff City - Liverpool,Cardiff City , Liverpool
-EPL,22/04/19,Chelsea - Burnley,Chelsea , Burnley
-EPL,23/04/19,Tottenham - Brighton & Hove,Tottenham , Brighton & Hove
-EPL,23/04/19,Watford - Southampton,Watford , Southampton
-EPL,24/04/19,Wolverhampton - Arsenal,Wolverhampton , Arsenal
-EPL,24/04/19,Manchester Utd - Manchester City,Manchester Utd , Manchester City
-EPL,26/04/19,Liverpool - Huddersfield,Liverpool , Huddersfield
-EPL,27/04/19,Tottenham - West Ham Utd,Tottenham , West Ham Utd
-EPL,27/04/19,Crystal Palace - Everton,Crystal Palace , Everton
-EPL,27/04/19,Fulham - Cardiff City,Fulham , Cardiff City
-EPL,27/04/19,Southampton - Bournemouth,Southampton , Bournemouth
-EPL,27/04/19,Watford - Wolverhampton,Watford , Wolverhampton
-EPL,27/04/19,Brighton & Hove - Newcastle Utd,Brighton & Hove , Newcastle Utd
-EPL,28/04/19,Burnley - Manchester City,Burnley , Manchester City
-EPL,28/04/19,Manchester Utd - Chelsea,Manchester Utd , Chelsea
-EPL,29/04/19,Leicester City - Arsenal,Leicester City , Arsenal
-EPL,03/05/19,Everton - Burnley,Everton , Burnley
-EPL,04/05/19,Arsenal - Brighton & Hove,Arsenal , Brighton & Hove
-EPL,04/05/19,Cardiff City - Crystal Palace,Cardiff City , Crystal Palace
-EPL,04/05/19,Chelsea - Watford,Chelsea , Watford
-EPL,04/05/19,Manchester City - Leicester City,Manchester City , Leicester City
-EPL,04/05/19,West Ham Utd - Southampton,West Ham Utd , Southampton
-EPL,04/05/19,Wolverhampton - Fulham,Wolverhampton , Fulham
-EPL,05/05/19,Huddersfield - Manchester Utd,Huddersfield , Manchester Utd
-EPL,05/05/19,Newcastle Utd - Liverpool,Newcastle Utd , Liverpool
-EPL,06/05/19,Bournemouth - Tottenham,Bournemouth , Tottenham
-EPL,12/05/19,Brighton & Hove - Manchester City,Brighton & Hove , Manchester City
-EPL,12/05/19,Burnley - Arsenal,Burnley , Arsenal
-EPL,12/05/19,Crystal Palace - Bournemouth,Crystal Palace , Bournemouth
-EPL,12/05/19,Fulham - Newcastle Utd,Fulham , Newcastle Utd
-EPL,12/05/19,Leicester City - Chelsea,Leicester City , Chelsea
-EPL,12/05/19,Liverpool - Wolverhampton,Liverpool , Wolverhampton
-EPL,12/05/19,Manchester Utd - Cardiff City,Manchester Utd , Cardiff City
-EPL,12/05/19,Southampton - Huddersfield,Southampton , Huddersfield
-EPL,12/05/19,Tottenham - Everton,Tottenham , Everton
-EPL,12/05/19,Watford - West Ham Utd,Watford , West Ham Utd
-EPL,12/04/19,FC Nürnberg - Schalke 04,FC Nürnberg , Schalke 04
-EPL,13/04/19,Hannover 96 - Moenchengladb.,Hannover 96 , Moenchengladb.
-EPL,13/04/19,RB Leipzig - Wolfsburg,RB Leipzig , Wolfsburg
-EPL,13/04/19,Stuttgart - Leverkusen,Stuttgart , Leverkusen
-EPL,13/04/19,Werder Bremen - Freiburg,Werder Bremen , Freiburg
-EPL,13/04/19,Dortmund - FSV Mainz,Dortmund , FSV Mainz
-EPL,14/04/19,Hoffenheim - Hertha Berlin,Hoffenheim , Hertha Berlin
-EPL,14/04/19,Düsseldorf - Bayern Munich,Düsseldorf , Bayern Munich
-EPL,14/04/19,Frankfurt - FC Augsburg,Frankfurt , FC Augsburg
-EPL,20/04/19,Bayern Munich - Werder Bremen,Bayern Munich , Werder Bremen
-EPL,20/04/19,FC Augsburg - Stuttgart,FC Augsburg , Stuttgart
-EPL,20/04/19,FSV Mainz - Düsseldorf,FSV Mainz , Düsseldorf
-EPL,20/04/19,Leverkusen - FC Nürnberg,Leverkusen , FC Nürnberg
-EPL,20/04/19,Moenchengladb. - RB Leipzig,Moenchengladb. , RB Leipzig
-EPL,20/04/19,Schalke 04 - Hoffenheim,Schalke 04 , Hoffenheim
-EPL,21/04/19,Freiburg - Dortmund,Freiburg , Dortmund
-EPL,21/04/19,Hertha Berlin - Hannover 96,Hertha Berlin , Hannover 96
-EPL,22/04/19,Wolfsburg - Frankfurt,Wolfsburg , Frankfurt
-EPL,26/04/19,FC Augsburg - Leverkusen,FC Augsburg , Leverkusen
-EPL,27/04/19,Dortmund - Schalke 04,Dortmund , Schalke 04
-EPL,27/04/19,Düsseldorf - Werder Bremen,Düsseldorf , Werder Bremen
-EPL,27/04/19,Frankfurt - Hertha Berlin,Frankfurt , Hertha Berlin
-EPL,27/04/19,Hannover 96 - FSV Mainz,Hannover 96 , FSV Mainz
-EPL,27/04/19,RB Leipzig - Freiburg,RB Leipzig , Freiburg
-EPL,27/04/19,Stuttgart - Moenchengladb.,Stuttgart , Moenchengladb.
-EPL,28/04/19,Hoffenheim - Wolfsburg,Hoffenheim , Wolfsburg
-EPL,28/04/19,FC Nürnberg - Bayern Munich,FC Nürnberg , Bayern Munich
-EPL,03/05/19,FSV Mainz - RB Leipzig,FSV Mainz , RB Leipzig
-EPL,04/05/19,Bayern Munich - Hannover 96,Bayern Munich , Hannover 96
-EPL,04/05/19,Hertha Berlin - Stuttgart,Hertha Berlin , Stuttgart
-EPL,04/05/19,Moenchengladb. - Hoffenheim,Moenchengladb. , Hoffenheim
-EPL,04/05/19,Wolfsburg - FC Nürnberg,Wolfsburg , FC Nürnberg
-EPL,04/05/19,Werder Bremen - Dortmund,Werder Bremen , Dortmund
-EPL,05/05/19,Schalke 04 - FC Augsburg,Schalke 04 , FC Augsburg
-EPL,05/05/19,Freiburg - Düsseldorf,Freiburg , Düsseldorf
-EPL,05/05/19,Leverkusen - Frankfurt,Leverkusen , Frankfurt
-EPL,11/05/19,Dortmund - Düsseldorf,Dortmund , Düsseldorf
-EPL,11/05/19,FC Augsburg - Hertha Berlin,FC Augsburg , Hertha Berlin
-EPL,11/05/19,FC Nürnberg - Moenchengladb.,FC Nürnberg , Moenchengladb.
-EPL,11/05/19,Frankfurt - FSV Mainz,Frankfurt , FSV Mainz
-EPL,11/05/19,Hannover 96 - Freiburg,Hannover 96 , Freiburg
-EPL,11/05/19,Hoffenheim - Werder Bremen,Hoffenheim , Werder Bremen
-EPL,11/05/19,Leverkusen - Schalke 04,Leverkusen , Schalke 04
-EPL,11/05/19,RB Leipzig - Bayern Munich,RB Leipzig , Bayern Munich
-EPL,11/05/19,Stuttgart - Wolfsburg,Stuttgart , Wolfsburg
-EPL,18/05/19,Bayern Munich - Frankfurt,Bayern Munich , Frankfurt
-EPL,18/05/19,Düsseldorf - Hannover 96,Düsseldorf , Hannover 96
-EPL,18/05/19,Freiburg - FC Nürnberg,Freiburg , FC Nürnberg
-EPL,18/05/19,FSV Mainz - Hoffenheim,FSV Mainz , Hoffenheim
-EPL,18/05/19,Hertha Berlin - Leverkusen,Hertha Berlin , Leverkusen
-EPL,18/05/19,Moenchengladb. - Dortmund,Moenchengladb. , Dortmund
-EPL,18/05/19,Schalke 04 - Stuttgart,Schalke 04 , Stuttgart
-EPL,18/05/19,Werder Bremen - RB Leipzig,Werder Bremen , RB Leipzig
-EPL,18/05/19,Wolfsburg - FC Augsburg,Wolfsburg , FC Augsburg
+DIVISION,DATE,FIXTURE,HOME TEAM,AWAY TEAM,Team_Home,PPG_Home,Last8_Home,Team_Away,PPG_Away,Last8_Away
+EPL,15/04/19,Watford - Arsenal,Watford,Arsenal,Watford,0.48815165876777256,0.47709923664122134,Arsenal,0.7393364928909953,0.6183206106870229
+EPL,16/04/19,Brighton & Hove - Cardiff City,Brighton & Hove,Cardiff City,Brighton & Hove,0.2938388625592418,0.19083969465648853,Cardiff City,0.2085308056872038,0.1412213740458015
+EPL,20/04/19,Manchester City - Tottenham,Manchester City,Tottenham,Manchester City,1.0,1.0,Tottenham,0.7677725118483413,0.3320610687022901
+EPL,20/04/19,Bournemouth - Fulham,Bournemouth,Fulham,Bournemouth,0.37914691943127965,0.23664122137404578,Fulham,0.08530805687203792,0.0
+EPL,20/04/19,Huddersfield - Watford,Huddersfield,Watford,Huddersfield,0.0,0.0,Watford,0.48815165876777256,0.47709923664122134
+EPL,20/04/19,West Ham Utd - Leicester City,West Ham Utd,Leicester City,West Ham Utd,0.39336492890995267,0.28625954198473275,Leicester City,0.45971563981042657,0.5725190839694656
+EPL,20/04/19,Wolverhampton - Brighton & Hove,Wolverhampton,Brighton & Hove,Wolverhampton,0.4786729857819906,0.28625954198473275,Brighton & Hove,0.2938388625592418,0.19083969465648853
+EPL,20/04/19,Newcastle Utd - Southampton,Newcastle Utd,Southampton,Newcastle Utd,0.33649289099526075,0.47709923664122134,Southampton,0.3222748815165878,0.4274809160305344
+EPL,21/04/19,Everton - Manchester Utd,Everton,Manchester Utd,Everton,0.44549763033175366,0.47709923664122134,Manchester Utd,0.7251184834123223,0.6183206106870229
+EPL,21/04/19,Arsenal - Crystal Palace,Arsenal,Crystal Palace,Arsenal,0.7393364928909953,0.6183206106870229,Crystal Palace,0.35071090047393366,0.4274809160305344
+EPL,21/04/19,Cardiff City - Liverpool,Cardiff City,Liverpool,Cardiff City,0.2085308056872038,0.1412213740458015,Liverpool,0.990521327014218,0.8091603053435115
+EPL,22/04/19,Chelsea - Burnley,Chelsea,Burnley,Chelsea,0.7251184834123223,0.6183206106870229,Burnley,0.35071090047393366,0.4274809160305344
+EPL,23/04/19,Tottenham - Brighton & Hove,Tottenham,Brighton & Hove,Tottenham,0.7677725118483413,0.3320610687022901,Brighton & Hove,0.2938388625592418,0.19083969465648853
+EPL,23/04/19,Watford - Southampton,Watford,Southampton,Watford,0.48815165876777256,0.47709923664122134,Southampton,0.3222748815165878,0.4274809160305344
+EPL,24/04/19,Wolverhampton - Arsenal,Wolverhampton,Arsenal,Wolverhampton,0.4786729857819906,0.28625954198473275,Arsenal,0.7393364928909953,0.6183206106870229
+EPL,24/04/19,Manchester Utd - Manchester City,Manchester Utd,Manchester City,Manchester Utd,0.7251184834123223,0.6183206106870229,Manchester City,1.0,1.0
+EPL,26/04/19,Liverpool - Huddersfield,Liverpool,Huddersfield,Liverpool,0.990521327014218,0.8091603053435115,Huddersfield,0.0,0.0
+EPL,27/04/19,Tottenham - West Ham Utd,Tottenham,West Ham Utd,Tottenham,0.7677725118483413,0.3320610687022901,West Ham Utd,0.39336492890995267,0.28625954198473275
+EPL,27/04/19,Crystal Palace - Everton,Crystal Palace,Everton,Crystal Palace,0.35071090047393366,0.4274809160305344,Everton,0.44549763033175366,0.47709923664122134
+EPL,27/04/19,Fulham - Cardiff City,Fulham,Cardiff City,Fulham,0.08530805687203792,0.0,Cardiff City,0.2085308056872038,0.1412213740458015
+EPL,27/04/19,Southampton - Bournemouth,Southampton,Bournemouth,Southampton,0.3222748815165878,0.4274809160305344,Bournemouth,0.37914691943127965,0.23664122137404578
+EPL,27/04/19,Watford - Wolverhampton,Watford,Wolverhampton,Watford,0.48815165876777256,0.47709923664122134,Wolverhampton,0.4786729857819906,0.28625954198473275
+EPL,27/04/19,Brighton & Hove - Newcastle Utd,Brighton & Hove,Newcastle Utd,Brighton & Hove,0.2938388625592418,0.19083969465648853,Newcastle Utd,0.33649289099526075,0.47709923664122134
+EPL,28/04/19,Burnley - Manchester City,Burnley,Manchester City,Burnley,0.35071090047393366,0.4274809160305344,Manchester City,1.0,1.0
+EPL,28/04/19,Manchester Utd - Chelsea,Manchester Utd,Chelsea,Manchester Utd,0.7251184834123223,0.6183206106870229,Chelsea,0.7251184834123223,0.6183206106870229
+EPL,29/04/19,Leicester City - Arsenal,Leicester City,Arsenal,Leicester City,0.45971563981042657,0.5725190839694656,Arsenal,0.7393364928909953,0.6183206106870229
+EPL,03/05/19,Everton - Burnley,Everton,Burnley,Everton,0.44549763033175366,0.47709923664122134,Burnley,0.35071090047393366,0.4274809160305344
+EPL,04/05/19,Manchester City - Leicester City,Manchester City,Leicester City,Manchester City,1.0,1.0,Leicester City,0.45971563981042657,0.5725190839694656
+EPL,04/05/19,Arsenal - Brighton & Hove,Arsenal,Brighton & Hove,Arsenal,0.7393364928909953,0.6183206106870229,Brighton & Hove,0.2938388625592418,0.19083969465648853
+EPL,04/05/19,Chelsea - Watford,Chelsea,Watford,Chelsea,0.7251184834123223,0.6183206106870229,Watford,0.48815165876777256,0.47709923664122134
+EPL,04/05/19,West Ham Utd - Southampton,West Ham Utd,Southampton,West Ham Utd,0.39336492890995267,0.28625954198473275,Southampton,0.3222748815165878,0.4274809160305344
+EPL,04/05/19,Wolverhampton - Fulham,Wolverhampton,Fulham,Wolverhampton,0.4786729857819906,0.28625954198473275,Fulham,0.08530805687203792,0.0
+EPL,04/05/19,Cardiff City - Crystal Palace,Cardiff City,Crystal Palace,Cardiff City,0.2085308056872038,0.1412213740458015,Crystal Palace,0.35071090047393366,0.4274809160305344
+EPL,05/05/19,Huddersfield - Manchester Utd,Huddersfield,Manchester Utd,Huddersfield,0.0,0.0,Manchester Utd,0.7251184834123223,0.6183206106870229
+EPL,05/05/19,Newcastle Utd - Liverpool,Newcastle Utd,Liverpool,Newcastle Utd,0.33649289099526075,0.47709923664122134,Liverpool,0.990521327014218,0.8091603053435115
+EPL,06/05/19,Bournemouth - Tottenham,Bournemouth,Tottenham,Bournemouth,0.37914691943127965,0.23664122137404578,Tottenham,0.7677725118483413,0.3320610687022901
+EPL,12/05/19,Brighton & Hove - Manchester City,Brighton & Hove,Manchester City,Brighton & Hove,0.2938388625592418,0.19083969465648853,Manchester City,1.0,1.0
+EPL,12/05/19,Burnley - Arsenal,Burnley,Arsenal,Burnley,0.35071090047393366,0.4274809160305344,Arsenal,0.7393364928909953,0.6183206106870229
+EPL,12/05/19,Crystal Palace - Bournemouth,Crystal Palace,Bournemouth,Crystal Palace,0.35071090047393366,0.4274809160305344,Bournemouth,0.37914691943127965,0.23664122137404578
+EPL,12/05/19,Fulham - Newcastle Utd,Fulham,Newcastle Utd,Fulham,0.08530805687203792,0.0,Newcastle Utd,0.33649289099526075,0.47709923664122134
+EPL,12/05/19,Leicester City - Chelsea,Leicester City,Chelsea,Leicester City,0.45971563981042657,0.5725190839694656,Chelsea,0.7251184834123223,0.6183206106870229
+EPL,12/05/19,Liverpool - Wolverhampton,Liverpool,Wolverhampton,Liverpool,0.990521327014218,0.8091603053435115,Wolverhampton,0.4786729857819906,0.28625954198473275
+EPL,12/05/19,Manchester Utd - Cardiff City,Manchester Utd,Cardiff City,Manchester Utd,0.7251184834123223,0.6183206106870229,Cardiff City,0.2085308056872038,0.1412213740458015
+EPL,12/05/19,Southampton - Huddersfield,Southampton,Huddersfield,Southampton,0.3222748815165878,0.4274809160305344,Huddersfield,0.0,0.0
+EPL,12/05/19,Tottenham - Everton,Tottenham,Everton,Tottenham,0.7677725118483413,0.3320610687022901,Everton,0.44549763033175366,0.47709923664122134
+EPL,12/05/19,Watford - West Ham Utd,Watford,West Ham Utd,Watford,0.48815165876777256,0.47709923664122134,West Ham Utd,0.39336492890995267,0.28625954198473275
+EPL,19/04/19,Bristol City - Reading,Bristol City,Reading,Bristol City,0.6666666666666667,0.36708860759493667,Reading,0.2753623188405797,0.47257383966244726
+EPL,19/04/19,Sheffield Utd - Nottm Forest,Sheffield Utd,Nottm Forest,Sheffield Utd,0.8768115942028986,0.5274261603375527,Nottm Forest,0.5000000000000001,0.10548523206751054
+EPL,19/04/19,Millwall - Brentford,Millwall,Brentford,Millwall,0.2536231884057971,0.1561181434599156,Brentford,0.44927536231884063,0.1561181434599156
+EPL,19/04/19,Birmingham City - Derby County,Birmingham City,Derby County,Birmingham City,0.46376811594202905,0.0,Derby County,0.6304347826086957,0.36708860759493667
+EPL,19/04/19,Bolton - Aston Villa,Bolton,Aston Villa,Bolton,0.06521739130434781,0.05063291139240506,Aston Villa,0.7028985507246376,1.0
+EPL,19/04/19,Leeds Utd - Wigan Athletic,Leeds Utd,Wigan Athletic,Leeds Utd,0.9275362318840579,0.6835443037974683,Wigan Athletic,0.23913043478260868,0.05063291139240506
+EPL,19/04/19,Middlesbrough - Stoke City,Middlesbrough,Stoke City,Middlesbrough,0.6159420289855073,0.05063291139240506,Stoke City,0.41304347826086957,0.3164556962025316
+EPL,19/04/19,Preston - Ipswich Town,Preston,Ipswich Town,Preston,0.5000000000000001,0.26160337552742613,Ipswich Town,0.0,0.10548523206751054
+EPL,19/04/19,QP Rangers - Blackburn,QP Rangers,Blackburn,QP Rangers,0.34057971014492744,0.05063291139240506,Blackburn,0.427536231884058,0.21097046413502105
+EPL,19/04/19,Swansea City - Rotherham,Swansea City,Rotherham,Swansea City,0.5072463768115942,0.36708860759493667,Rotherham,0.20289855072463764,0.26160337552742613
+EPL,19/04/19,West Bromwich - Hull City,West Bromwich,Hull City,West Bromwich,0.7753623188405796,0.42194092827004215,Hull City,0.5507246376811594,0.42194092827004215
+EPL,19/04/19,Norwich City - Sheffield Wed,Norwich City,Sheffield Wed,Norwich City,1.0,0.7890295358649789,Sheffield Wed,0.5289855072463767,0.36708860759493667
+EPL,22/04/19,Aston Villa - Millwall,Aston Villa,Millwall,Aston Villa,0.7028985507246376,1.0,Millwall,0.2536231884057971,0.1561181434599156
+EPL,22/04/19,Blackburn - Bolton,Blackburn,Bolton,Blackburn,0.427536231884058,0.21097046413502105,Bolton,0.06521739130434781,0.05063291139240506
+EPL,22/04/19,Derby County - QP Rangers,Derby County,QP Rangers,Derby County,0.6304347826086957,0.36708860759493667,QP Rangers,0.34057971014492744,0.05063291139240506
+EPL,22/04/19,Hull City - Sheffield Utd,Hull City,Sheffield Utd,Hull City,0.5507246376811594,0.42194092827004215,Sheffield Utd,0.8768115942028986,0.5274261603375527
+EPL,22/04/19,Ipswich Town - Swansea City,Ipswich Town,Swansea City,Ipswich Town,0.0,0.10548523206751054,Swansea City,0.5072463768115942,0.36708860759493667
+EPL,22/04/19,Nottm Forest - Middlesbrough,Nottm Forest,Middlesbrough,Nottm Forest,0.5000000000000001,0.10548523206751054,Middlesbrough,0.6159420289855073,0.05063291139240506
+EPL,22/04/19,Reading - West Bromwich,Reading,West Bromwich,Reading,0.2753623188405797,0.47257383966244726,West Bromwich,0.7753623188405796,0.42194092827004215
+EPL,22/04/19,Rotherham - Birmingham City,Rotherham,Birmingham City,Rotherham,0.20289855072463764,0.26160337552742613,Birmingham City,0.46376811594202905,0.0
+EPL,22/04/19,Sheffield Wed - Bristol City,Sheffield Wed,Bristol City,Sheffield Wed,0.5289855072463767,0.36708860759493667,Bristol City,0.6666666666666667,0.36708860759493667
+EPL,22/04/19,Stoke City - Norwich City,Stoke City,Norwich City,Stoke City,0.41304347826086957,0.3164556962025316,Norwich City,1.0,0.7890295358649789
+EPL,22/04/19,Wigan Athletic - Preston,Wigan Athletic,Preston,Wigan Athletic,0.23913043478260868,0.05063291139240506,Preston,0.5000000000000001,0.26160337552742613
+EPL,22/04/19,Brentford - Leeds Utd,Brentford,Leeds Utd,Brentford,0.44927536231884063,0.1561181434599156,Leeds Utd,0.9275362318840579,0.6835443037974683
+EPL,27/04/19,Millwall - Stoke City,Millwall,Stoke City,Millwall,0.2536231884057971,0.1561181434599156,Stoke City,0.41304347826086957,0.3164556962025316
+EPL,27/04/19,Birmingham City - Wigan Athletic,Birmingham City,Wigan Athletic,Birmingham City,0.46376811594202905,0.0,Wigan Athletic,0.23913043478260868,0.05063291139240506
+EPL,27/04/19,Bolton - Brentford,Bolton,Brentford,Bolton,0.06521739130434781,0.05063291139240506,Brentford,0.44927536231884063,0.1561181434599156
+EPL,27/04/19,Bristol City - Derby County,Bristol City,Derby County,Bristol City,0.6666666666666667,0.36708860759493667,Derby County,0.6304347826086957,0.36708860759493667
+EPL,27/04/19,Middlesbrough - Reading,Middlesbrough,Reading,Middlesbrough,0.6159420289855073,0.05063291139240506,Reading,0.2753623188405797,0.47257383966244726
+EPL,27/04/19,Preston - Sheffield Wed,Preston,Sheffield Wed,Preston,0.5000000000000001,0.26160337552742613,Sheffield Wed,0.5289855072463767,0.36708860759493667
+EPL,27/04/19,QP Rangers - Nottm Forest,QP Rangers,Nottm Forest,QP Rangers,0.34057971014492744,0.05063291139240506,Nottm Forest,0.5000000000000001,0.10548523206751054
+EPL,27/04/19,Swansea City - Hull City,Swansea City,Hull City,Swansea City,0.5072463768115942,0.36708860759493667,Hull City,0.5507246376811594,0.42194092827004215
+EPL,27/04/19,West Bromwich - Rotherham,West Bromwich,Rotherham,West Bromwich,0.7753623188405796,0.42194092827004215,Rotherham,0.20289855072463764,0.26160337552742613
+EPL,27/04/19,Sheffield Utd - Ipswich Town,Sheffield Utd,Ipswich Town,Sheffield Utd,0.8768115942028986,0.5274261603375527,Ipswich Town,0.0,0.10548523206751054
+EPL,27/04/19,Norwich City - Blackburn,Norwich City,Blackburn,Norwich City,1.0,0.7890295358649789,Blackburn,0.427536231884058,0.21097046413502105
+EPL,28/04/19,Leeds Utd - Aston Villa,Leeds Utd,Aston Villa,Leeds Utd,0.9275362318840579,0.6835443037974683,Aston Villa,0.7028985507246376,1.0
+EPL,30/04/19,Millwall - Bristol City,Millwall,Bristol City,Millwall,0.2536231884057971,0.1561181434599156,Bristol City,0.6666666666666667,0.36708860759493667
+EPL,01/05/19,Swansea City - Derby County,Swansea City,Derby County,Swansea City,0.5072463768115942,0.36708860759493667,Derby County,0.6304347826086957,0.36708860759493667
+EPL,05/05/19,Aston Villa - Norwich City,Aston Villa,Norwich City,Aston Villa,0.7028985507246376,1.0,Norwich City,1.0,0.7890295358649789
+EPL,05/05/19,Blackburn - Swansea City,Blackburn,Swansea City,Blackburn,0.427536231884058,0.21097046413502105,Swansea City,0.5072463768115942,0.36708860759493667
+EPL,05/05/19,Brentford - Preston,Brentford,Preston,Brentford,0.44927536231884063,0.1561181434599156,Preston,0.5000000000000001,0.26160337552742613
+EPL,05/05/19,Derby County - West Bromwich,Derby County,West Bromwich,Derby County,0.6304347826086957,0.36708860759493667,West Bromwich,0.7753623188405796,0.42194092827004215
+EPL,05/05/19,Hull City - Bristol City,Hull City,Bristol City,Hull City,0.5507246376811594,0.42194092827004215,Bristol City,0.6666666666666667,0.36708860759493667
+EPL,05/05/19,Ipswich Town - Leeds Utd,Ipswich Town,Leeds Utd,Ipswich Town,0.0,0.10548523206751054,Leeds Utd,0.9275362318840579,0.6835443037974683
+EPL,05/05/19,Nottm Forest - Bolton,Nottm Forest,Bolton,Nottm Forest,0.5000000000000001,0.10548523206751054,Bolton,0.06521739130434781,0.05063291139240506
+EPL,05/05/19,Reading - Birmingham City,Reading,Birmingham City,Reading,0.2753623188405797,0.47257383966244726,Birmingham City,0.46376811594202905,0.0
+EPL,05/05/19,Rotherham - Middlesbrough,Rotherham,Middlesbrough,Rotherham,0.20289855072463764,0.26160337552742613,Middlesbrough,0.6159420289855073,0.05063291139240506
+EPL,05/05/19,Sheffield Wed - QP Rangers,Sheffield Wed,QP Rangers,Sheffield Wed,0.5289855072463767,0.36708860759493667,QP Rangers,0.34057971014492744,0.05063291139240506
+EPL,05/05/19,Stoke City - Sheffield Utd,Stoke City,Sheffield Utd,Stoke City,0.41304347826086957,0.3164556962025316,Sheffield Utd,0.8768115942028986,0.5274261603375527
+EPL,05/05/19,Wigan Athletic - Millwall,Wigan Athletic,Millwall,Wigan Athletic,0.23913043478260868,0.05063291139240506,Millwall,0.2536231884057971,0.1561181434599156
+EPL,20/04/19,Bayern Munich - Werder Bremen,Bayern Munich,Werder Bremen,Bayern Munich,1.0,1.0,Werder Bremen,0.6065573770491803,0.7272727272727273
+EPL,20/04/19,FC Augsburg - Stuttgart,FC Augsburg,Stuttgart,FC Augsburg,0.26775956284153,0.45454545454545453,Stuttgart,0.13114754098360654,0.2727272727272727
+EPL,20/04/19,FSV Mainz - Düsseldorf,FSV Mainz,Düsseldorf,FSV Mainz,0.360655737704918,0.2727272727272727,Düsseldorf,0.4371584699453552,0.5454545454545454
+EPL,20/04/19,Leverkusen - FC Nürnberg,Leverkusen,FC Nürnberg,Leverkusen,0.5846994535519126,0.5454545454545454,FC Nürnberg,0.07650273224043716,0.2727272727272727
+EPL,20/04/19,Moenchengladb. - RB Leipzig,Moenchengladb.,RB Leipzig,Moenchengladb.,0.6994535519125683,0.4109090909090909,RB Leipzig,0.8306010928961748,0.9090909090909091
+EPL,20/04/19,Schalke 04 - Hoffenheim,Schalke 04,Hoffenheim,Schalke 04,0.24590163934426232,0.2290909090909091,Hoffenheim,0.6229508196721312,0.7745454545454545
+EPL,21/04/19,Freiburg - Dortmund,Freiburg,Dortmund,Freiburg,0.3387978142076503,0.4109090909090909,Dortmund,0.983606557377049,0.7272727272727273
+EPL,21/04/19,Hertha Berlin - Hannover 96,Hertha Berlin,Hannover 96,Hertha Berlin,0.3989071038251366,0.18181818181818182,Hannover 96,0.0,0.0
+EPL,22/04/19,Wolfsburg - Frankfurt,Wolfsburg,Frankfurt,Wolfsburg,0.5846994535519126,0.5927272727272727,Frankfurt,0.7158469945355191,0.8654545454545454
+EPL,26/04/19,FC Augsburg - Leverkusen,FC Augsburg,Leverkusen,FC Augsburg,0.26775956284153,0.45454545454545453,Leverkusen,0.5846994535519126,0.5454545454545454
+EPL,27/04/19,Dortmund - Schalke 04,Dortmund,Schalke 04,Dortmund,0.983606557377049,0.7272727272727273,Schalke 04,0.24590163934426232,0.2290909090909091
+EPL,27/04/19,Düsseldorf - Werder Bremen,Düsseldorf,Werder Bremen,Düsseldorf,0.4371584699453552,0.5454545454545454,Werder Bremen,0.6065573770491803,0.7272727272727273
+EPL,27/04/19,Frankfurt - Hertha Berlin,Frankfurt,Hertha Berlin,Frankfurt,0.7158469945355191,0.8654545454545454,Hertha Berlin,0.3989071038251366,0.18181818181818182
+EPL,27/04/19,Hannover 96 - FSV Mainz,Hannover 96,FSV Mainz,Hannover 96,0.0,0.0,FSV Mainz,0.360655737704918,0.2727272727272727
+EPL,27/04/19,RB Leipzig - Freiburg,RB Leipzig,Freiburg,RB Leipzig,0.8306010928961748,0.9090909090909091,Freiburg,0.3387978142076503,0.4109090909090909
+EPL,27/04/19,Stuttgart - Moenchengladb.,Stuttgart,Moenchengladb.,Stuttgart,0.13114754098360654,0.2727272727272727,Moenchengladb.,0.6994535519125683,0.4109090909090909
+EPL,28/04/19,Hoffenheim - Wolfsburg,Hoffenheim,Wolfsburg,Hoffenheim,0.6229508196721312,0.7745454545454545,Wolfsburg,0.5846994535519126,0.5927272727272727
+EPL,28/04/19,FC Nürnberg - Bayern Munich,FC Nürnberg,Bayern Munich,FC Nürnberg,0.07650273224043716,0.2727272727272727,Bayern Munich,1.0,1.0
+EPL,03/05/19,FSV Mainz - RB Leipzig,FSV Mainz,RB Leipzig,FSV Mainz,0.360655737704918,0.2727272727272727,RB Leipzig,0.8306010928961748,0.9090909090909091
+EPL,04/05/19,Bayern Munich - Hannover 96,Bayern Munich,Hannover 96,Bayern Munich,1.0,1.0,Hannover 96,0.0,0.0
+EPL,04/05/19,Hertha Berlin - Stuttgart,Hertha Berlin,Stuttgart,Hertha Berlin,0.3989071038251366,0.18181818181818182,Stuttgart,0.13114754098360654,0.2727272727272727
+EPL,04/05/19,Moenchengladb. - Hoffenheim,Moenchengladb.,Hoffenheim,Moenchengladb.,0.6994535519125683,0.4109090909090909,Hoffenheim,0.6229508196721312,0.7745454545454545
+EPL,04/05/19,Wolfsburg - FC Nürnberg,Wolfsburg,FC Nürnberg,Wolfsburg,0.5846994535519126,0.5927272727272727,FC Nürnberg,0.07650273224043716,0.2727272727272727
+EPL,04/05/19,Werder Bremen - Dortmund,Werder Bremen,Dortmund,Werder Bremen,0.6065573770491803,0.7272727272727273,Dortmund,0.983606557377049,0.7272727272727273
+EPL,05/05/19,Schalke 04 - FC Augsburg,Schalke 04,FC Augsburg,Schalke 04,0.24590163934426232,0.2290909090909091,FC Augsburg,0.26775956284153,0.45454545454545453
+EPL,05/05/19,Freiburg - Düsseldorf,Freiburg,Düsseldorf,Freiburg,0.3387978142076503,0.4109090909090909,Düsseldorf,0.4371584699453552,0.5454545454545454
+EPL,05/05/19,Leverkusen - Frankfurt,Leverkusen,Frankfurt,Leverkusen,0.5846994535519126,0.5454545454545454,Frankfurt,0.7158469945355191,0.8654545454545454
+EPL,11/05/19,Dortmund - Düsseldorf,Dortmund,Düsseldorf,Dortmund,0.983606557377049,0.7272727272727273,Düsseldorf,0.4371584699453552,0.5454545454545454
+EPL,11/05/19,FC Augsburg - Hertha Berlin,FC Augsburg,Hertha Berlin,FC Augsburg,0.26775956284153,0.45454545454545453,Hertha Berlin,0.3989071038251366,0.18181818181818182
+EPL,11/05/19,FC Nürnberg - Moenchengladb.,FC Nürnberg,Moenchengladb.,FC Nürnberg,0.07650273224043716,0.2727272727272727,Moenchengladb.,0.6994535519125683,0.4109090909090909
+EPL,11/05/19,Frankfurt - FSV Mainz,Frankfurt,FSV Mainz,Frankfurt,0.7158469945355191,0.8654545454545454,FSV Mainz,0.360655737704918,0.2727272727272727
+EPL,11/05/19,Hannover 96 - Freiburg,Hannover 96,Freiburg,Hannover 96,0.0,0.0,Freiburg,0.3387978142076503,0.4109090909090909
+EPL,11/05/19,Hoffenheim - Werder Bremen,Hoffenheim,Werder Bremen,Hoffenheim,0.6229508196721312,0.7745454545454545,Werder Bremen,0.6065573770491803,0.7272727272727273
+EPL,11/05/19,Leverkusen - Schalke 04,Leverkusen,Schalke 04,Leverkusen,0.5846994535519126,0.5454545454545454,Schalke 04,0.24590163934426232,0.2290909090909091
+EPL,11/05/19,RB Leipzig - Bayern Munich,RB Leipzig,Bayern Munich,RB Leipzig,0.8306010928961748,0.9090909090909091,Bayern Munich,1.0,1.0
+EPL,11/05/19,Stuttgart - Wolfsburg,Stuttgart,Wolfsburg,Stuttgart,0.13114754098360654,0.2727272727272727,Wolfsburg,0.5846994535519126,0.5927272727272727
+EPL,18/05/19,Bayern Munich - Frankfurt,Bayern Munich,Frankfurt,Bayern Munich,1.0,1.0,Frankfurt,0.7158469945355191,0.8654545454545454
+EPL,18/05/19,Düsseldorf - Hannover 96,Düsseldorf,Hannover 96,Düsseldorf,0.4371584699453552,0.5454545454545454,Hannover 96,0.0,0.0
+EPL,18/05/19,Freiburg - FC Nürnberg,Freiburg,FC Nürnberg,Freiburg,0.3387978142076503,0.4109090909090909,FC Nürnberg,0.07650273224043716,0.2727272727272727
+EPL,18/05/19,FSV Mainz - Hoffenheim,FSV Mainz,Hoffenheim,FSV Mainz,0.360655737704918,0.2727272727272727,Hoffenheim,0.6229508196721312,0.7745454545454545
+EPL,18/05/19,Hertha Berlin - Leverkusen,Hertha Berlin,Leverkusen,Hertha Berlin,0.3989071038251366,0.18181818181818182,Leverkusen,0.5846994535519126,0.5454545454545454
+EPL,18/05/19,Moenchengladb. - Dortmund,Moenchengladb.,Dortmund,Moenchengladb.,0.6994535519125683,0.4109090909090909,Dortmund,0.983606557377049,0.7272727272727273
+EPL,18/05/19,Schalke 04 - Stuttgart,Schalke 04,Stuttgart,Schalke 04,0.24590163934426232,0.2290909090909091,Stuttgart,0.13114754098360654,0.2727272727272727
+EPL,18/05/19,Werder Bremen - RB Leipzig,Werder Bremen,RB Leipzig,Werder Bremen,0.6065573770491803,0.7272727272727273,RB Leipzig,0.8306010928961748,0.9090909090909091
+EPL,18/05/19,Wolfsburg - FC Augsburg,Wolfsburg,FC Augsburg,Wolfsburg,0.5846994535519126,0.5927272727272727,FC Augsburg,0.26775956284153,0.45454545454545453
